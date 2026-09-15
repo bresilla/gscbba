@@ -1,0 +1,52 @@
+template = "python"
+flavour = "nix"
+name = "gscbba"
+generated_at = "2026-09-15T08:42:41Z"
+
+[[files]]
+path = ".env.lua"
+hash = "62a276b37c64bd234fd235fe1c00e82a"
+
+[[files]]
+path = ".github/workflows/release.yml"
+hash = "38130ee944326ad6f7a66385865efb6c"
+
+[[files]]
+path = ".github/workflows/tests.yml"
+hash = "6f5f3017fe8d272e582a8f3be5adece1"
+
+[[files]]
+path = ".gitignore"
+hash = "dc9882a627bdfb0c556e1631c0d99256"
+
+[[files]]
+path = ".make.lua"
+hash = "8e17127364283c08b2f4018872a3591d"
+
+[[files]]
+path = "LICENSE"
+hash = "027844bab838e520052bffafa4752f4f"
+
+[[files]]
+path = "README.md"
+hash = "e42d80e221f685cb5ddf22e383a0d05b"
+
+[[files]]
+path = "flake.nix"
+hash = "3a0f776c2cc850187dcfed48fe168a34"
+
+[[files]]
+path = "pyproject.toml"
+hash = "fa3c0b9032ec019404fa1cfd91720e96"
+
+[[files]]
+path = "src/gscbba/__init__.py"
+hash = "8c790a3592232826deae7cb4432951a4"
+
+[[files]]
+path = "src/gscbba/__main__.py"
+hash = "ef4e35b9f1b0ffe5db121ceb3cf1cc04"
+
+[[files]]
+path = "tests/test_cli.py"
+hash = "d439957e41510442696d3e2297d24a92"

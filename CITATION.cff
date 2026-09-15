@@ -1,0 +1,17 @@
+cff-version: "1.2.0"
+message: "If you use GS-CBBA, please cite this software."
+type: software
+title: "GS-CBBA: Spatially Aware Row Allocation for Multi-Harvester Teams"
+authors:
+  - family-names: "Bresilla"
+    given-names: "Trim"
+  - family-names: "Leong"
+    given-names: "William"
+  - family-names: "Jindo"
+    given-names: "Keiji"
+  - family-names: "Nieuwenhuizen"
+    given-names: "Ard"
+version: "0.1.0"
+date-released: "2026-09-15"
+repository-code: "https://github.com/bresilla/gscbba"
+url: "https://github.com/bresilla/gscbba"
